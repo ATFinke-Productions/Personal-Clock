@@ -1,4 +1,4 @@
 Personal-Clock
 ==============
 
-An update to my first iOS app that was released all the way back in 2011
+An update to one of my first iOS apps that was released all the way back in 2011. No longer supported
